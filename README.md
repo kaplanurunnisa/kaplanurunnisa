@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaplanurunnisa" alt="kaplanurunnisa" /></a> </p>
 
-- 🔭 I’m currently working on **SummerCamp'22 Project**
+- 🔭 I’m currently working on **my school**
 
-- 🌱 I’m currently learning **GaussianNB, DecisionTree, ANN**
+- 🌱 I’m currently learning **cybersec tools**
 
 - 👯 I’m looking to collaborate on **AI and CyberSecurity**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@nurunnisa.kaplan](https://medium.com/@nurunnisa.kaplan)
 
-- 💬 Ask me about **AI, CyberSecurity, Java, C#, Python**
+- 💬 Ask me about **AI, CyberSecurity,Python**
 
 - 📫 How to reach me **nurunnisa.kaplan@gmail.com**
 
