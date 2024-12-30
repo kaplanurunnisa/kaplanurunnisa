@@ -15,14 +15,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaplanurunnisa?tab=repositories](https://github.com/kaplanurunnisa?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@nurunnisa.kaplan](https://medium.com/@nurunnisa.kaplan)
+- 📝 I regularly write articles on [https://medium.com/@nurunnisa.kaplan](https://medium.com/@zungzwange)
 
 - 💬 Ask me about **AI, CyberSecurity,Python**
 
 - 📫 How to reach me **nurunnisa.kaplan@gmail.com**
-
-- 📄 Know about my experiences [https://www.instagram.com/zungzwange/?hl=enen](https://www.instagram.com/zungzwange/?hl=enen)
-
+  
 - ⚡ Fun fact **I think I am a passionate and hard worker**
 
 
