@@ -52,8 +52,8 @@ Computer Engineering graduate with a double major in Psychological Counseling an
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaplanurunnisa&show_icons=true&theme=radical&hide_border=true" alt="Nurunnisa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaplanurunnisa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kaplanurunnisa&show_icons=true&theme=radical&hide_border=true" alt="Nurunnisa's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaplanurunnisa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
